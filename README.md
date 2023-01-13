@@ -1,6 +1,6 @@
 ## Aggregator API Backend
 Just a practice project, 
-goal was to send encoded data payload to the Aggregator Smart Contract that just calls the encoded data
+goal was to send encoded data payload to the Aggregator Smart Contract which just executes the transaction from encoded data.
 <br/>
 
 
